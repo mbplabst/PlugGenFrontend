@@ -1,3 +1,3 @@
 # Plugingenerator Frontend
 
-Frontend for PluginGenerator (Project Gandalf)
+Frontend for PluginGenerator
